@@ -1,6 +1,6 @@
 # Getting Started
 
-### Run Application in Local Machine
+### Run Application on Local Machine
 
 ```bash
 git clone https://github.com/TomWaks/SystemReservationSpring.git
