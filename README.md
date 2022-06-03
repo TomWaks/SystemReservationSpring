@@ -3,7 +3,8 @@
 ### Run Application in Local Machine
 
 ```bash
-cd sysemreservation
+git clone https://github.com/TomWaks/SystemReservationSpring.git
+cd SystemReservationSpring
 mvn spring-boot:run
 ```
 
